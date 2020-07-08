@@ -49,6 +49,7 @@ Amazon:
 <img src="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/6o380-AX79GRBSDW2-Full-Image_GalleryBackground-en-US-1539187946789._SX1080_.jpg" alt="Amazon.com: Watch Amazonia Inc | Prime Video"/>
 
 Sao Paulo:
+
 <img src="https://i1.wp.com/www.stadsleven.nu/wp-content/uploads/2014/12/saopaulo1.jpg?fit=768%2C480&amp;ssl=1" alt="São Paulo, de stad der steden – Column Richard van der Laken ..."/>
 
 
