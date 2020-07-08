@@ -6,6 +6,8 @@ My name is Ana Carolina and with this website I want to show you a little bit mo
 
 <img src="https://static.reisgraag.nl/images/cached/gs-6c2b8918d8-Copacabana.jpg" alt="Vakantie Brazilië | Reisbureau Reisgraag.nl"/>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 12 Curiosities about Brazil :
 
 1- Brazil is the largest country in South America
@@ -52,7 +54,22 @@ Sao Paulo:
 
 <img src="https://i1.wp.com/www.stadsleven.nu/wp-content/uploads/2014/12/saopaulo1.jpg?fit=768%2C480&amp;ssl=1" alt="São Paulo, de stad der steden – Column Richard van der Laken ..."/>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+A cool fact is that Brazil is actually a big mix of race and ethnicity, and this picture is a good example to explain that:
+
+<img src="https://nova-escola-producao.s3.amazonaws.com/sffzQKZVsjKmRPCuEEeP3df9MV6dfNQbRzShPdcmgB76FqYbkXQ7WWQZ4dKY/acao-propositiva" alt="Plano de Aula - 5º ano - Geografia - Etnias e o povo brasileiro"/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+I hope this website was useful and pleasent to read, my goal was to be able to show people more about Brazil and to show how diverse and great it is.
 
 
 
