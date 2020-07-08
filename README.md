@@ -32,6 +32,24 @@ My name is Ana Carolina and with this website I want to show you a little bit mo
 
 12- There are around 2500 airports in Brazil
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Official flag in Brazil:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" alt="Brazilië - Wikipedia"/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Some photos of Brazil:
+
+Rio de Janeiro:
+<img src="https://www.bradutch.com/wp-content/uploads/2016/08/Christ-The-Redeemer-Bradutch.jpg" alt="10 things Brazil does better than anywhere else - BRADUTCH"/>
+
+Amazon:
+<img src="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/6o380-AX79GRBSDW2-Full-Image_GalleryBackground-en-US-1539187946789._SX1080_.jpg" alt="Amazon.com: Watch Amazonia Inc | Prime Video"/>
+
+Sao Paulo:
+<img src="https://i1.wp.com/www.stadsleven.nu/wp-content/uploads/2014/12/saopaulo1.jpg?fit=768%2C480&amp;ssl=1" alt="São Paulo, de stad der steden – Column Richard van der Laken ..."/>
 
 
 
