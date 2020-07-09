@@ -12,7 +12,7 @@ My name is Ana Carolina and with this website I want to show you a little bit mo
 
 1- Brazil is the largest country in South America
 
-2- The official language spoken in Brazil is portuguese (not spanish) :laugh:
+2- The official language spoken in Brazil is portuguese (not spanish)
 
 3- Portugal claimed Brazil in the year 1500
 
